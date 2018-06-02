@@ -1,25 +1,18 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Evansville Seeker launches"
 date:   2018-06-01 10:34:04 -0500
-categories: jekyll update
+categories: local-news
+author: Noah Stubbs
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+![Evansville Riverfront]({{ "/assets/evansville-riverfront.png" | absolute_url }})
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+It's official. Evansville Seeker has launched its news operation. 
 
-Jekyll also offers powerful support for code snippets:
+This is where we would talk about how we would cover news in our community. 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+We will do investigations. We will do the data and stuff.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+We will pick up where other local news outlets have left off and so forth.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Also, give us your money. Think about an amount of money you're comfortable parting with and add 10 percent to that amount.

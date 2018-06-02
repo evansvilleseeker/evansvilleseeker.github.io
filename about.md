@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Our Mission
+-------
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+The Evansville Seekers is a nonprofit news website committed to producing hyper-local news in Evansville, Indiana. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Through data-driving reporting and in-depth investigative journalism, we seek to hold accountable local leaders and expose social issues in order to create informed local citizens capable of bettering their community.
 
+Our Board
+---------
 
-[jekyll-organization]: https://github.com/jekyll
