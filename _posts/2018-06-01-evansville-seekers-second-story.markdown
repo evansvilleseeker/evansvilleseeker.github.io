@@ -11,9 +11,10 @@ The purpose of this story is to
 
 * test the multi-catagory option. 
 
-* test the *markdown* language
+* test the **markdown** language
 
-##Using Markdown
+Using Markdown
+--------------
 
 This will _certainly_ be a learning curve for our journalists as they are used to working with a [WYSIWYG](https://en.m.wikipedia.org/wiki/WYSIWYG).
 
