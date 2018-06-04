@@ -2,7 +2,7 @@
 layout: post
 title:  "Evansville Seeker's second story"
 date:   2018-06-02 19:28:00 -0500
-categories: local-news investigations
+categories: local-news, investigations
 author: Noah Stubbs
 ---
 This is the second mock story for Evansville Seeker. 
