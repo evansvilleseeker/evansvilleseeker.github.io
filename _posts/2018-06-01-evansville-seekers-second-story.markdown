@@ -16,6 +16,6 @@ The purpose of this story is to
 Using Markdown
 --------------
 
-This will _certainly_ be a learning curve for our journalists as they are used to working with a [WYSIWYG](https://en.m.wikipedia.org/wiki/WYSIWYG).
+This will _certainly_ be a learning curve for our journalists as they are used to working with a [WYSIWYG](https://en.m.wikipedia.org/wiki/WYSIWYG){:target="_blank"}.
 
 It might be useful to find a markdown plug-in or converter. 
