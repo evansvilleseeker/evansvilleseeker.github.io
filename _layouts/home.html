@@ -7,19 +7,30 @@ layout: default-home
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
     <!-- Title -->
-    <div>
+    <div class="logo">
       <img src="/assets/seeker-logo.svg" width="70%">
     </div>
+    <a href="#">
+      <main>
+        <div class="hero">
+          <h1>Evansville Seeker launches</h1>
+          <p>City's first nonprofit news organization rolls out its first story.</p>
+          <img src="https://consideringadoption.com/wp-content/uploads/2016/02/Evansville.jpg" />
+          <div class="bar"></div>
+        </div>
+      </main>
+    </a>
+    <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
 
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Latest News" }}</h2>
+    <h2 style="font-weight: 550; margin-top: 20px;" class="post-list-heading">{{ page.list_title | default: "Latest News" }}</h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <!--{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>--->
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
@@ -32,7 +43,7 @@ layout: default-home
       {%- endfor -%}
     </ul>
 
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+    <!--<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>-->
   {%- endif -%}
 
 </div>
